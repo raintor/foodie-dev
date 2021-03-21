@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * 
  * @Title: JsonUtils.java
- * @Package com.imooc.utils
+ * @Package com.sxy.utils
  * @Description: json转换类
  * Copyright: Copyright (c)
  * Company: www.imooc.com
